@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{10BE526D-7581-4F38-A941-FE48143CE496}" SchemaVersion="103">
+	<GameParameters>
+		<WorkUnit Name="Antti Work Unit" ID="{10BE526D-7581-4F38-A941-FE48143CE496}" PersistMode="Standalone">
+			<ChildrenList>
+				<GameParameter Name="masterVolume" ID="{6792318D-C450-4757-B4CE-3BA3665B771D}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="8"/>
+						<Property Name="Max" Type="Real64" Value="10"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="musicVolume" ID="{A9C4E07A-D9A9-467F-90A5-A5DACC9D5F6B}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="8"/>
+						<Property Name="Max" Type="Real64" Value="10"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="soundVolume" ID="{B309FBFA-6203-4EAC-A552-ACCA3A2AD8E6}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="8"/>
+						<Property Name="Max" Type="Real64" Value="10"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="tannoyVolume" ID="{20660E35-6537-44FD-B1E2-A8296BDF6DED}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="8"/>
+						<Property Name="Max" Type="Real64" Value="10"/>
+					</PropertyList>
+				</GameParameter>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

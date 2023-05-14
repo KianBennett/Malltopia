@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{D8C9A150-C4EB-46B9-B980-D70AE810C841}" SchemaVersion="103">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{D8C9A150-C4EB-46B9-B980-D70AE810C841}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Main" ID="{19915B97-AA6D-4F7C-9B5C-7262C3D66E6E}">
+					<ObjectInclusionList>
+						<ObjectRef Name="guardChase" ID="{21BD77EC-D243-407B-919C-ABEF35A16C06}" WorkUnitID="{6544746E-9534-4220-A520-B0D9D8B0D861}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ponderingCustomers" ID="{CB3F8D01-8A50-4106-BADE-B12DAE454C56}" WorkUnitID="{6544746E-9534-4220-A520-B0D9D8B0D861}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="placeItems" ID="{3687D419-5459-41E3-86E7-BF8D58997E39}" WorkUnitID="{6544746E-9534-4220-A520-B0D9D8B0D861}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="destroyWalls" ID="{4B1A51DE-0E28-42D5-9AB9-9B9CA1AF1178}" WorkUnitID="{6544746E-9534-4220-A520-B0D9D8B0D861}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="testaudio" ID="{9C8C8CE2-8AA3-42EC-B590-1335E8F3CCFF}" WorkUnitID="{6544746E-9534-4220-A520-B0D9D8B0D861}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="cashier" ID="{031682C6-F061-4329-A3EC-8747273A9D4D}" WorkUnitID="{6544746E-9534-4220-A520-B0D9D8B0D861}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="crowdRumbling" ID="{692B5A7F-8799-438B-A28C-BFECE506FEE4}" WorkUnitID="{6544746E-9534-4220-A520-B0D9D8B0D861}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="janitor" ID="{48FEEBEF-6773-4396-8C51-11895FA598EA}" WorkUnitID="{6544746E-9534-4220-A520-B0D9D8B0D861}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="menuSelect" ID="{B9BBFC4E-19A3-43D7-A5CB-698454ECC157}" WorkUnitID="{6544746E-9534-4220-A520-B0D9D8B0D861}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="placeWalls" ID="{A3A38F09-FD0E-47CC-A27D-7726C9354D7E}" WorkUnitID="{6544746E-9534-4220-A520-B0D9D8B0D861}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="cheeringCustomers" ID="{F987B76B-2C84-47E4-A0E1-C96485715065}" WorkUnitID="{6544746E-9534-4220-A520-B0D9D8B0D861}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="crowdRestaurant" ID="{2A8BEA6B-8FCA-48E2-9858-3C8AFB4D7062}" WorkUnitID="{6544746E-9534-4220-A520-B0D9D8B0D861}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="tannoy" ID="{24D1EBE3-9B67-4B70-B7CE-5F8519296B55}" WorkUnitID="{6544746E-9534-4220-A520-B0D9D8B0D861}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="guardAlert" ID="{1E3C8345-EF31-4B9B-A527-E824ADB8DEF8}" WorkUnitID="{6544746E-9534-4220-A520-B0D9D8B0D861}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="angryCustomers" ID="{F2100927-5A42-4DFB-BB3F-D4C87C5B7445}" WorkUnitID="{6544746E-9534-4220-A520-B0D9D8B0D861}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="footsteps" ID="{8BC9C0CF-F3D5-4E2D-95B4-4FC71DB12CD5}" WorkUnitID="{6544746E-9534-4220-A520-B0D9D8B0D861}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="playMusic" ID="{4384D617-9154-4E88-B2AD-C7AA58D71765}" WorkUnitID="{3198CBDA-73CE-4F20-B1C9-E12816C66D07}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="partyWhistle" ID="{29DBC235-F677-4EAA-8656-1087BC9482F4}" WorkUnitID="{6544746E-9534-4220-A520-B0D9D8B0D861}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="destroyItems" ID="{328CADEF-5964-4F68-B556-9D235AC1CAE8}" WorkUnitID="{6544746E-9534-4220-A520-B0D9D8B0D861}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="stealing" ID="{A060256F-5A6D-4FD6-8E3E-5A8BD0CA5092}" WorkUnitID="{6544746E-9534-4220-A520-B0D9D8B0D861}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="startAmbiance" ID="{01978469-CEFA-4FE4-ACDF-18A334A3CFBC}" WorkUnitID="{6544746E-9534-4220-A520-B0D9D8B0D861}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

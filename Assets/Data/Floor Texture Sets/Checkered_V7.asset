@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7d9212df6e553d4ca0ad15a92149032, type: 3}
+  m_Name: Checkered_V7
+  m_EditorClassIdentifier: 
+  mainTexture: {fileID: 2800000, guid: 5d10cff92f05a76458635f5268fc83a2, type: 3}
+  normals: {fileID: 2800000, guid: 0380016d01b226844b932274a4d682f5, type: 3}
+  roughness: {fileID: 2800000, guid: 188b4764f6f2ff949b6ebed074854302, type: 3}
+  specular: {fileID: 0}

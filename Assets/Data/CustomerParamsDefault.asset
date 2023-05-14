@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f05b7677ef8278043be4d0bf0c4eed88, type: 3}
+  m_Name: CustomerParamsDefault
+  m_EditorClassIdentifier: 
+  MaxHappiness: 100
+  MaxEnergy: 100
+  MaxInterest: 100
+  EnergyDecreaseRate: 2
+  QueueHappinessDecreaseRate: 0.5
+  EnergyRecoveryRateSitting: 10
+  SeeTrashInterval: 10
+  SeeTrashRange: 8
+  SeeTrashHappinessDecrease: 4
+  SeeDecorationInterval: 5
+  SeeDecorationRange: 8
+  SeeDecorationHappinessIncrease: 4
+  MaxEnergyRestoredBySitting: 150
+  RangeToIncreaseShopInterest: 5
+  ShopInterestIncreaseRatePerObject: 8

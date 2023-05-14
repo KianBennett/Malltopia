@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 739f677decf42ef47b0d9aede45b1a13, type: 3}
+  m_Name: RoomParamsStaff
+  m_EditorClassIdentifier: 
+  Name: Staff Room
+  Cost: 250
+  CostPerTile: 10
+  MinSize: {x: 3, y: 3}
+  ObjectsToPlace:
+  - {fileID: -4884685382092512875, guid: 8ae2706dbae9b444b9e30978984351e8, type: 3}
+  - {fileID: 590620959648290710, guid: 35559f972c4251448a7daa966905b7be, type: 3}
+  ObjectsCanBuild:
+  - {fileID: 590620959648290710, guid: 35559f972c4251448a7daa966905b7be, type: 3}
+  - {fileID: 153127972165299380, guid: a1ce1dea89fff424e828ae2e1a40a886, type: 3}
+  - {fileID: 2541711953820281553, guid: 7d879106aae1d674b87299a56432f591, type: 3}
+  - {fileID: 8289054967060161088, guid: a58273670fb3d2f409265f0680fb3d1d, type: 3}
+  - {fileID: -4884685382092512875, guid: 8ae2706dbae9b444b9e30978984351e8, type: 3}
+  defaultFloorTextureSet: {fileID: 11400000, guid: df6912a3b53f87c4abb73eacdb83ec8b,
+    type: 2}
+  defaultWallMaterials: {fileID: 11400000, guid: aa6746ff59d54a74aa936f9f1a27a8a7,
+    type: 2}
+  staffOnly: 1

@@ -1,0 +1,39 @@
+A customer enters the mall with a random level of happiness, energy and budget
+They also have a certain product they want and will make their way to that store
+When they buy that product they will wander for a bit. If their happiness and budget are high enough 
+    and they see a shop they will enter it and buy a product
+    
+Budget:
+    When a customer spends money their budget goes down, if this reaches 0 they leave the mall x
+
+Energy:
+    Energy starts at max value and steadily decreases over time x
+    Sitting on benches or eating food replenishes energy
+    Customers can sit down/eat during their wander state and are more likely to if they have low energy
+    If a customer's energy reaches 0 they will leave the mall
+
+Happiness:
+    When they buy a product, their happiness increases
+    Waiting in a queue for too long steadily decreases their happiness
+    Seeing rubbish on the floor will decrease happiness
+        This goes on a cooldown - other bits of rubbish cannot decrease happiness for X seconds
+        There is an even longer cooldown for seeing the same bit of rubbish
+    Seeing decorations and entertainers increases happiness
+
+Wandering:
+    When the customer has purchased what the came for they will wander about the mall
+    Mostly this is walking about randomly but also going up to shop windows, looking at entertainers etc
+    If they see a shop window and have enough budget, they have a random chance to go look at it
+    If they see a food cart and have a low enough energy, they will have a random chance to buy it
+    If they see a bench and have a low enough energy, they will have a random chance to go sit down for a bit
+
+Interest:
+    For each type of shop, a customer has an interest level
+    If they are going to the mall specifically for this product, they will have a max interest value
+    Otherwise they have a low but random interest in it 
+        For example if the weather is cold, people's interest in coat shops will be slightly higher
+    Looking through the windows of the shop will increase their interest level, especially if there are window displays
+    Seeing adverts and impressive shop signs will also increase their interest
+    If their interest is high enough they will enter the shop and look at the merchandise, further increasing their interest
+    When their interest reaches max value, they will purchase the product
+    

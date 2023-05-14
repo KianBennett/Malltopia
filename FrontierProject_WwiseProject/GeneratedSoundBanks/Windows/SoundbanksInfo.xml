@@ -1,0 +1,1112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>C:\Users\antti\Documents\Unity Projects\FrontierProject\FrontierProject_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\antti\Documents\Unity Projects\FrontierProject\FrontierProject_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\antti\Documents\Unity Projects\FrontierProject\FrontierProject_WwiseProject\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\antti\Documents\Unity Projects\FrontierProject\FrontierProject_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles>
+		<File Id="24399643" Language="SFX">
+			<ShortName>sfx_ambiance_bird01.wav</ShortName>
+			<Path>SFX\sfx_ambiance_bird01_10C4C929.wem</Path>
+		</File>
+		<File Id="24718945" Language="SFX">
+			<ShortName>sfx_ambiance_bird02.wav</ShortName>
+			<Path>SFX\sfx_ambiance_bird02_10C4C929.wem</Path>
+		</File>
+		<File Id="176130988" Language="SFX">
+			<ShortName>sfx_ambiance_bird08.wav</ShortName>
+			<Path>SFX\sfx_ambiance_bird08_10C4C929.wem</Path>
+		</File>
+		<File Id="241176896" Language="SFX">
+			<ShortName>sfx_ambiance_bird04.wav</ShortName>
+			<Path>SFX\sfx_ambiance_bird04_10C4C929.wem</Path>
+		</File>
+		<File Id="256843532" Language="SFX">
+			<ShortName>sfx_ambiance_bird05.wav</ShortName>
+			<Path>SFX\sfx_ambiance_bird05_10C4C929.wem</Path>
+		</File>
+		<File Id="275564790" Language="SFX">
+			<ShortName>V5_Pizzicato Strings.wav</ShortName>
+			<Path>SFX\V5_Pizzicato Strings_D79FB2B7.wem</Path>
+		</File>
+		<File Id="283770028" Language="SFX">
+			<ShortName>sfx_ambiance_car01.wav</ShortName>
+			<Path>SFX\sfx_ambiance_car01_B224CC78.wem</Path>
+		</File>
+		<File Id="301651997" Language="SFX">
+			<ShortName>sfx_ambiance_pigeon03.wav</ShortName>
+			<Path>SFX\sfx_ambiance_pigeon03_10C4C929.wem</Path>
+		</File>
+		<File Id="304327796" Language="SFX">
+			<ShortName>V2_Pizzicato Strings.wav</ShortName>
+			<Path>SFX\V2_Pizzicato Strings_D79FB2B7.wem</Path>
+		</File>
+		<File Id="381921093" Language="SFX">
+			<ShortName>sfx_ambiance_pigeon01.wav</ShortName>
+			<Path>SFX\sfx_ambiance_pigeon01_10C4C929.wem</Path>
+		</File>
+		<File Id="443784128" Language="SFX">
+			<ShortName>sfx_ambiance_car02.wav</ShortName>
+			<Path>SFX\sfx_ambiance_car02_10C4C929.wem</Path>
+		</File>
+		<File Id="499910848" Language="SFX">
+			<ShortName>V6_Pizzicato Strings.wav</ShortName>
+			<Path>SFX\V6_Pizzicato Strings_D79FB2B7.wem</Path>
+		</File>
+		<File Id="503106551" Language="SFX">
+			<ShortName>sfx_crowd_restaurant_loop01.wav</ShortName>
+			<Path>SFX\sfx_crowd_restaurant_loop01_D79FB2B7.wem</Path>
+		</File>
+		<File Id="509835209" Language="SFX">
+			<ShortName>V3_Pizzicato Strings.wav</ShortName>
+			<Path>SFX\V3_Pizzicato Strings_D79FB2B7.wem</Path>
+		</File>
+		<File Id="636828644" Language="SFX">
+			<ShortName>sfx_ambiance_car03.wav</ShortName>
+			<Path>SFX\sfx_ambiance_car03_10C4C929.wem</Path>
+		</File>
+		<File Id="814622815" Language="SFX">
+			<ShortName>V4_Pizzicato Strings.wav</ShortName>
+			<Path>SFX\V4_Pizzicato Strings_D79FB2B7.wem</Path>
+		</File>
+		<File Id="874954210" Language="SFX">
+			<ShortName>sfx_crowd_queue_loop01.wav</ShortName>
+			<Path>SFX\sfx_crowd_queue_loop01_D79FB2B7.wem</Path>
+		</File>
+		<File Id="902952998" Language="SFX">
+			<ShortName>sfx_ambiance_bird06.wav</ShortName>
+			<Path>SFX\sfx_ambiance_bird06_10C4C929.wem</Path>
+		</File>
+		<File Id="970327853" Language="SFX">
+			<ShortName>sfx_ambiance_bird07.wav</ShortName>
+			<Path>SFX\sfx_ambiance_bird07_10C4C929.wem</Path>
+		</File>
+		<File Id="1033227381" Language="SFX">
+			<ShortName>sfx_ambiance_bird03.wav</ShortName>
+			<Path>SFX\sfx_ambiance_bird03_10C4C929.wem</Path>
+		</File>
+		<File Id="1057318742" Language="SFX">
+			<ShortName>sfx_ambiance_pigeon02.wav</ShortName>
+			<Path>SFX\sfx_ambiance_pigeon02_10C4C929.wem</Path>
+		</File>
+	</StreamedFiles>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX" Hash="3029348314">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<GameParameters>
+				<GameParameter Id="2346531308" Name="musicVolume" ObjectPath="\Game Parameters\Antti Work Unit\musicVolume"/>
+				<GameParameter Id="2918011349" Name="masterVolume" ObjectPath="\Game Parameters\Antti Work Unit\masterVolume"/>
+				<GameParameter Id="3190574006" Name="tannoyVolume" ObjectPath="\Game Parameters\Antti Work Unit\tannoyVolume"/>
+				<GameParameter Id="3873835272" Name="soundVolume" ObjectPath="\Game Parameters\Antti Work Unit\soundVolume"/>
+			</GameParameters>
+		</SoundBank>
+		<SoundBank Id="3161908922" Language="SFX" Hash="3368368669">
+			<ObjectPath>\SoundBanks\Default Work Unit\Main</ObjectPath>
+			<ShortName>Main</ShortName>
+			<Path>Main.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2827521659" Name="angryCustomers" ObjectPath="\Events\Default Work Unit\angryCustomers" MaxAttenuation="15." DurationType="OneShot" DurationMin="0.426576" DurationMax="1.">
+					<IncludedMemoryFiles>
+						<File Id="262207827" Language="SFX">
+							<ShortName>sfx_customers_angry03.wav</ShortName>
+							<Path>SFX\sfx_customers_angry03_10C4C929.wem</Path>
+						</File>
+						<File Id="436425101" Language="SFX">
+							<ShortName>sfx_customers_angry01.wav</ShortName>
+							<Path>SFX\sfx_customers_angry01_10C4C929.wem</Path>
+						</File>
+						<File Id="634788960" Language="SFX">
+							<ShortName>sfx_customers_angry02.wav</ShortName>
+							<Path>SFX\sfx_customers_angry02_10C4C929.wem</Path>
+						</File>
+						<File Id="661399236" Language="SFX">
+							<ShortName>sfx_customers_angry04.wav</ShortName>
+							<Path>SFX\sfx_customers_angry04_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3965943028" Name="cashier" ObjectPath="\Events\Default Work Unit\cashier" MaxAttenuation="15." DurationType="OneShot" DurationMin="1.230204" DurationMax="2.525487">
+					<IncludedMemoryFiles>
+						<File Id="508826890" Language="SFX">
+							<ShortName>sfx_cashRegister03.wav</ShortName>
+							<Path>SFX\sfx_cashRegister03_10C4C929.wem</Path>
+						</File>
+						<File Id="798295716" Language="SFX">
+							<ShortName>sfx_cashRegister02.wav</ShortName>
+							<Path>SFX\sfx_cashRegister02_10C4C929.wem</Path>
+						</File>
+						<File Id="847854729" Language="SFX">
+							<ShortName>sfx_cashRegister01.wav</ShortName>
+							<Path>SFX\sfx_cashRegister01_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4184302003" Name="cheeringCustomers" ObjectPath="\Events\Default Work Unit\cheeringCustomers" MaxAttenuation="15." DurationType="OneShot" DurationMin="1.5" DurationMax="1.666667">
+					<IncludedMemoryFiles>
+						<File Id="676728300" Language="SFX">
+							<ShortName>sfx_customers_cheering01.wav</ShortName>
+							<Path>SFX\sfx_customers_cheering01_10C4C929.wem</Path>
+						</File>
+						<File Id="863560788" Language="SFX">
+							<ShortName>sfx_customers_cheering02.wav</ShortName>
+							<Path>SFX\sfx_customers_cheering02_10C4C929.wem</Path>
+						</File>
+						<File Id="942820094" Language="SFX">
+							<ShortName>sfx_customers_cheering03.wav</ShortName>
+							<Path>SFX\sfx_customers_cheering03_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2722298425" Name="crowdRestaurant" ObjectPath="\Events\Default Work Unit\crowdRestaurant" MaxAttenuation="15." DurationType="Infinite">
+					<ReferencedStreamedFiles>
+						<File Id="503106551" Language="SFX">
+							<ShortName>sfx_crowd_restaurant_loop01.wav</ShortName>
+							<Path>SFX\sfx_crowd_restaurant_loop01_D79FB2B7.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+				</Event>
+				<Event Id="2056374086" Name="crowdRumbling" ObjectPath="\Events\Default Work Unit\crowdRumbling" MaxAttenuation="15." DurationType="Infinite">
+					<ReferencedStreamedFiles>
+						<File Id="874954210" Language="SFX">
+							<ShortName>sfx_crowd_queue_loop01.wav</ShortName>
+							<Path>SFX\sfx_crowd_queue_loop01_D79FB2B7.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+				</Event>
+				<Event Id="1999751643" Name="destroyItems" ObjectPath="\Events\Default Work Unit\destroyItems" DurationType="OneShot" DurationMin="0.462472" DurationMax="2.269569">
+					<IncludedMemoryFiles>
+						<File Id="49914036" Language="SFX">
+							<ShortName>sfx_destroyItem_generic01.wav</ShortName>
+							<Path>SFX\sfx_destroyItem_generic01_10C4C929.wem</Path>
+						</File>
+						<File Id="54771930" Language="SFX">
+							<ShortName>sfx_destroyItem_ceramic02.wav</ShortName>
+							<Path>SFX\sfx_destroyItem_ceramic02_10C4C929.wem</Path>
+						</File>
+						<File Id="68170397" Language="SFX">
+							<ShortName>sfx_destroyItem_ceramic01.wav</ShortName>
+							<Path>SFX\sfx_destroyItem_ceramic01_10C4C929.wem</Path>
+						</File>
+						<File Id="279776303" Language="SFX">
+							<ShortName>sfx_destroyItem_generic02.wav</ShortName>
+							<Path>SFX\sfx_destroyItem_generic02_10C4C929.wem</Path>
+						</File>
+						<File Id="403507793" Language="SFX">
+							<ShortName>sfx_destroyItem_metal03.wav</ShortName>
+							<Path>SFX\sfx_destroyItem_metal03_10C4C929.wem</Path>
+						</File>
+						<File Id="631463415" Language="SFX">
+							<ShortName>sfx_destroyItem_leather03.wav</ShortName>
+							<Path>SFX\sfx_destroyItem_leather03_10C4C929.wem</Path>
+						</File>
+						<File Id="671527211" Language="SFX">
+							<ShortName>sfx_destroyItem_metal01.wav</ShortName>
+							<Path>SFX\sfx_destroyItem_metal01_10C4C929.wem</Path>
+						</File>
+						<File Id="732302021" Language="SFX">
+							<ShortName>sfx_destroyItem_wood03.wav</ShortName>
+							<Path>SFX\sfx_destroyItem_wood03_10C4C929.wem</Path>
+						</File>
+						<File Id="766891810" Language="SFX">
+							<ShortName>sfx_destroyItem_leather01.wav</ShortName>
+							<Path>SFX\sfx_destroyItem_leather01_10C4C929.wem</Path>
+						</File>
+						<File Id="804448329" Language="SFX">
+							<ShortName>sfx_destroyItem_wood01.wav</ShortName>
+							<Path>SFX\sfx_destroyItem_wood01_10C4C929.wem</Path>
+						</File>
+						<File Id="827833100" Language="SFX">
+							<ShortName>sfx_destroyItem_metal02.wav</ShortName>
+							<Path>SFX\sfx_destroyItem_metal02_10C4C929.wem</Path>
+						</File>
+						<File Id="912002554" Language="SFX">
+							<ShortName>sfx_destroyItem_ceramic03.wav</ShortName>
+							<Path>SFX\sfx_destroyItem_ceramic03_10C4C929.wem</Path>
+						</File>
+						<File Id="963240772" Language="SFX">
+							<ShortName>sfx_destroyItem_wood02.wav</ShortName>
+							<Path>SFX\sfx_destroyItem_wood02_10C4C929.wem</Path>
+						</File>
+						<File Id="1027234684" Language="SFX">
+							<ShortName>sfx_destroyItem_leather02.wav</ShortName>
+							<Path>SFX\sfx_destroyItem_leather02_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{4BC84B78-B6B0-4401-B609-83A88248DB58}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{6A6AD026-FFED-470F-8C8B-DEDF1FB95B83}">
+							<Media>
+								<File Id="403507793"/>
+								<File Id="671527211"/>
+								<File Id="827833100"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{F5C7E266-70D0-4BF0-9D27-9855F70B81B1}">
+							<Media>
+								<File Id="54771930"/>
+								<File Id="68170397"/>
+								<File Id="912002554"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{4BC84B78-B6B0-4401-B609-83A88248DB58}">
+							<Media>
+								<File Id="49914036"/>
+								<File Id="279776303"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{2858ACAE-9426-4D6D-B4C1-95D67D43BC8A}">
+							<Media>
+								<File Id="631463415"/>
+								<File Id="766891810"/>
+								<File Id="1027234684"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{432C82D6-9A7A-46D0-8D45-6CD1C42584F1}">
+							<Media>
+								<File Id="732302021"/>
+								<File Id="804448329"/>
+								<File Id="963240772"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="1229583736" Name="destroyWalls" ObjectPath="\Events\Default Work Unit\destroyWalls" DurationType="OneShot" DurationMin="0.78703" DurationMax="2.125011">
+					<IncludedMemoryFiles>
+						<File Id="179236900" Language="SFX">
+							<ShortName>sfx_destroyingWall01.wav</ShortName>
+							<Path>SFX\sfx_destroyingWall01_10C4C929.wem</Path>
+						</File>
+						<File Id="1031658340" Language="SFX">
+							<ShortName>sfx_destroyingWall02.wav</ShortName>
+							<Path>SFX\sfx_destroyingWall02_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2385628198" Name="footsteps" ObjectPath="\Events\Default Work Unit\footsteps" MaxAttenuation="10." DurationType="OneShot" DurationMin="0.743039" DurationMax="0.743039">
+					<IncludedMemoryFiles>
+						<File Id="142312488" Language="SFX">
+							<ShortName>sfx_footsteps_asphalt03.wav</ShortName>
+							<Path>SFX\sfx_footsteps_asphalt03_10C4C929.wem</Path>
+						</File>
+						<File Id="206647576" Language="SFX">
+							<ShortName>sfx_footsteps_asphalt05.wav</ShortName>
+							<Path>SFX\sfx_footsteps_asphalt05_10C4C929.wem</Path>
+						</File>
+						<File Id="417022414" Language="SFX">
+							<ShortName>sfx_footsteps_asphalt01.wav</ShortName>
+							<Path>SFX\sfx_footsteps_asphalt01_10C4C929.wem</Path>
+						</File>
+						<File Id="625918312" Language="SFX">
+							<ShortName>sfx_footsteps_asphalt04.wav</ShortName>
+							<Path>SFX\sfx_footsteps_asphalt04_10C4C929.wem</Path>
+						</File>
+						<File Id="1029064849" Language="SFX">
+							<ShortName>sfx_footsteps_asphalt02.wav</ShortName>
+							<Path>SFX\sfx_footsteps_asphalt02_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4054555406" Name="guardAlert" ObjectPath="\Events\Default Work Unit\guardAlert" MaxAttenuation="15." DurationType="OneShot" DurationMin="1.526531" DurationMax="2.269569">
+					<IncludedMemoryFiles>
+						<File Id="136739760" Language="SFX">
+							<ShortName>sfx_guard_alert02.wav</ShortName>
+							<Path>SFX\sfx_guard_alert02_10C4C929.wem</Path>
+						</File>
+						<File Id="385531118" Language="SFX">
+							<ShortName>sfx_guard_alert01.wav</ShortName>
+							<Path>SFX\sfx_guard_alert01_10C4C929.wem</Path>
+						</File>
+						<File Id="401406846" Language="SFX">
+							<ShortName>sfx_guard_alert03.wav</ShortName>
+							<Path>SFX\sfx_guard_alert03_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="165591838" Name="guardChase" ObjectPath="\Events\Default Work Unit\guardChase" MaxAttenuation="15." DurationType="OneShot" DurationMin="0.717732" DurationMax="0.819796">
+					<IncludedMemoryFiles>
+						<File Id="463641360" Language="SFX">
+							<ShortName>sfx_guard_chase01.wav</ShortName>
+							<Path>SFX\sfx_guard_chase01_10C4C929.wem</Path>
+						</File>
+						<File Id="972813992" Language="SFX">
+							<ShortName>sfx_guard_chase02.wav</ShortName>
+							<Path>SFX\sfx_guard_chase02_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3439293640" Name="janitor" ObjectPath="\Events\Default Work Unit\janitor" MaxAttenuation="15." DurationType="OneShot" DurationMin="0.528662" DurationMax="1.434059">
+					<IncludedMemoryFiles>
+						<File Id="18979138" Language="SFX">
+							<ShortName>sfx_janitorPlastic02.wav</ShortName>
+							<Path>SFX\sfx_janitorPlastic02_10C4C929.wem</Path>
+						</File>
+						<File Id="189823372" Language="SFX">
+							<ShortName>sfx_janitorPickup03.wav</ShortName>
+							<Path>SFX\sfx_janitorPickup03_10C4C929.wem</Path>
+						</File>
+						<File Id="283003415" Language="SFX">
+							<ShortName>sfx_janitorPlastic01.wav</ShortName>
+							<Path>SFX\sfx_janitorPlastic01_10C4C929.wem</Path>
+						</File>
+						<File Id="358093188" Language="SFX">
+							<ShortName>sfx_janitorPlastic03.wav</ShortName>
+							<Path>SFX\sfx_janitorPlastic03_10C4C929.wem</Path>
+						</File>
+						<File Id="496641220" Language="SFX">
+							<ShortName>sfx_janitorPaper02.wav</ShortName>
+							<Path>SFX\sfx_janitorPaper02_10C4C929.wem</Path>
+						</File>
+						<File Id="556600526" Language="SFX">
+							<ShortName>sfx_janitorPickup01.wav</ShortName>
+							<Path>SFX\sfx_janitorPickup01_10C4C929.wem</Path>
+						</File>
+						<File Id="654748624" Language="SFX">
+							<ShortName>sfx_janitorPaper01.wav</ShortName>
+							<Path>SFX\sfx_janitorPaper01_10C4C929.wem</Path>
+						</File>
+						<File Id="856357871" Language="SFX">
+							<ShortName>sfx_janitorPickup02.wav</ShortName>
+							<Path>SFX\sfx_janitorPickup02_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="664555880" Name="menuSelect" ObjectPath="\Events\Default Work Unit\menuSelect" DurationType="OneShot" DurationMin="2.915125" DurationMax="2.915125">
+					<IncludedMemoryFiles>
+						<File Id="661873350" Language="SFX">
+							<ShortName>sfx_menuSelect01.wav</ShortName>
+							<Path>SFX\sfx_menuSelect01_10C4C929.wem</Path>
+						</File>
+						<File Id="963664255" Language="SFX">
+							<ShortName>sfx_menuSelect02.wav</ShortName>
+							<Path>SFX\sfx_menuSelect02_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3091552271" Name="partyWhistle" ObjectPath="\Events\Default Work Unit\partyWhistle" DurationType="OneShot" DurationMin="1.526531" DurationMax="1.526531">
+					<IncludedMemoryFiles>
+						<File Id="415344783" Language="SFX">
+							<ShortName>sfx_partyWhistle01.wav</ShortName>
+							<Path>SFX\sfx_partyWhistle01_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2491655422" Name="placeItems" ObjectPath="\Events\Default Work Unit\placeItems" DurationType="OneShot" DurationMin="0.304082" DurationMax="1.486077">
+					<IncludedMemoryFiles>
+						<File Id="69826043" Language="SFX">
+							<ShortName>sfx_placeItem_wood02.wav</ShortName>
+							<Path>SFX\sfx_placeItem_wood02_10C4C929.wem</Path>
+						</File>
+						<File Id="147010348" Language="SFX">
+							<ShortName>sfx_placeItem_metal03.wav</ShortName>
+							<Path>SFX\sfx_placeItem_metal03_10C4C929.wem</Path>
+						</File>
+						<File Id="176863404" Language="SFX">
+							<ShortName>sfx_placeItem_metal01.wav</ShortName>
+							<Path>SFX\sfx_placeItem_metal01_10C4C929.wem</Path>
+						</File>
+						<File Id="210672020" Language="SFX">
+							<ShortName>sfx_placeItem_metal02.wav</ShortName>
+							<Path>SFX\sfx_placeItem_metal02_10C4C929.wem</Path>
+						</File>
+						<File Id="222864941" Language="SFX">
+							<ShortName>sfx_placeItem_ceramic03.wav</ShortName>
+							<Path>SFX\sfx_placeItem_ceramic03_10C4C929.wem</Path>
+						</File>
+						<File Id="261861526" Language="SFX">
+							<ShortName>sfx_placeItem_wood03.wav</ShortName>
+							<Path>SFX\sfx_placeItem_wood03_10C4C929.wem</Path>
+						</File>
+						<File Id="273490326" Language="SFX">
+							<ShortName>sfx_placeItem_generic01.wav</ShortName>
+							<Path>SFX\sfx_placeItem_generic01_10C4C929.wem</Path>
+						</File>
+						<File Id="281672052" Language="SFX">
+							<ShortName>sfx_placeItem_leather02.wav</ShortName>
+							<Path>SFX\sfx_placeItem_leather02_10C4C929.wem</Path>
+						</File>
+						<File Id="341649614" Language="SFX">
+							<ShortName>sfx_placeItem_generic03.wav</ShortName>
+							<Path>SFX\sfx_placeItem_generic03_10C4C929.wem</Path>
+						</File>
+						<File Id="465984484" Language="SFX">
+							<ShortName>sfx_placeItem_leather03.wav</ShortName>
+							<Path>SFX\sfx_placeItem_leather03_10C4C929.wem</Path>
+						</File>
+						<File Id="600484761" Language="SFX">
+							<ShortName>sfx_placeItem_generic02.wav</ShortName>
+							<Path>SFX\sfx_placeItem_generic02_10C4C929.wem</Path>
+						</File>
+						<File Id="693395343" Language="SFX">
+							<ShortName>sfx_placeItem_ceramic01.wav</ShortName>
+							<Path>SFX\sfx_placeItem_ceramic01_10C4C929.wem</Path>
+						</File>
+						<File Id="701666731" Language="SFX">
+							<ShortName>sfx_placeItem_ceramic02.wav</ShortName>
+							<Path>SFX\sfx_placeItem_ceramic02_10C4C929.wem</Path>
+						</File>
+						<File Id="897242718" Language="SFX">
+							<ShortName>sfx_placeItem_leather01.wav</ShortName>
+							<Path>SFX\sfx_placeItem_leather01_10C4C929.wem</Path>
+						</File>
+						<File Id="916070249" Language="SFX">
+							<ShortName>sfx_placeItem_generic04.wav</ShortName>
+							<Path>SFX\sfx_placeItem_generic04_10C4C929.wem</Path>
+						</File>
+						<File Id="959753125" Language="SFX">
+							<ShortName>sfx_placeItem_wood01.wav</ShortName>
+							<Path>SFX\sfx_placeItem_wood01_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{4BC84B78-B6B0-4401-B609-83A88248DB58}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{6A6AD026-FFED-470F-8C8B-DEDF1FB95B83}">
+							<Media>
+								<File Id="147010348"/>
+								<File Id="176863404"/>
+								<File Id="210672020"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{F5C7E266-70D0-4BF0-9D27-9855F70B81B1}">
+							<Media>
+								<File Id="222864941"/>
+								<File Id="693395343"/>
+								<File Id="701666731"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{4BC84B78-B6B0-4401-B609-83A88248DB58}">
+							<Media>
+								<File Id="273490326"/>
+								<File Id="341649614"/>
+								<File Id="600484761"/>
+								<File Id="916070249"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{2858ACAE-9426-4D6D-B4C1-95D67D43BC8A}">
+							<Media>
+								<File Id="281672052"/>
+								<File Id="465984484"/>
+								<File Id="897242718"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{432C82D6-9A7A-46D0-8D45-6CD1C42584F1}">
+							<Media>
+								<File Id="69826043"/>
+								<File Id="261861526"/>
+								<File Id="959753125"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="1992006125" Name="placeWalls" ObjectPath="\Events\Default Work Unit\placeWalls" DurationType="OneShot" DurationMin="1.273447" DurationMax="1.431088">
+					<IncludedMemoryFiles>
+						<File Id="491880366" Language="SFX">
+							<ShortName>sfx_placingWalls02.wav</ShortName>
+							<Path>SFX\sfx_placingWalls02_10C4C929.wem</Path>
+						</File>
+						<File Id="736083684" Language="SFX">
+							<ShortName>sfx_placingWalls01.wav</ShortName>
+							<Path>SFX\sfx_placingWalls01_10C4C929.wem</Path>
+						</File>
+						<File Id="1036206133" Language="SFX">
+							<ShortName>sfx_placingWalls03.wav</ShortName>
+							<Path>SFX\sfx_placingWalls03_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="417627684" Name="playMusic" ObjectPath="\Events\Harry Events\playMusic" DurationType="Infinite">
+					<ReferencedStreamedFiles>
+						<File Id="275564790" Language="SFX">
+							<ShortName>V5_Pizzicato Strings.wav</ShortName>
+							<Path>SFX\V5_Pizzicato Strings_D79FB2B7.wem</Path>
+						</File>
+						<File Id="304327796" Language="SFX">
+							<ShortName>V2_Pizzicato Strings.wav</ShortName>
+							<Path>SFX\V2_Pizzicato Strings_D79FB2B7.wem</Path>
+						</File>
+						<File Id="499910848" Language="SFX">
+							<ShortName>V6_Pizzicato Strings.wav</ShortName>
+							<Path>SFX\V6_Pizzicato Strings_D79FB2B7.wem</Path>
+						</File>
+						<File Id="509835209" Language="SFX">
+							<ShortName>V3_Pizzicato Strings.wav</ShortName>
+							<Path>SFX\V3_Pizzicato Strings_D79FB2B7.wem</Path>
+						</File>
+						<File Id="814622815" Language="SFX">
+							<ShortName>V4_Pizzicato Strings.wav</ShortName>
+							<Path>SFX\V4_Pizzicato Strings_D79FB2B7.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="7450326" Language="SFX">
+							<ShortName>V1_Staccato Strings.wav</ShortName>
+							<Path>SFX\V1_Staccato Strings_D79FB2B7.wem</Path>
+						</File>
+						<File Id="159448607" Language="SFX">
+							<ShortName>V2_Sax.wav</ShortName>
+							<Path>SFX\V2_Sax_D79FB2B7.wem</Path>
+						</File>
+						<File Id="185226714" Language="SFX">
+							<ShortName>V3_Kit.wav</ShortName>
+							<Path>SFX\V3_Kit_D79FB2B7.wem</Path>
+						</File>
+						<File Id="231356588" Language="SFX">
+							<ShortName>V1__bongos_.wav</ShortName>
+							<Path>SFX\V1__bongos__D79FB2B7.wem</Path>
+						</File>
+						<File Id="241464932" Language="SFX">
+							<ShortName>V4_Sax.wav</ShortName>
+							<Path>SFX\V4_Sax_D79FB2B7.wem</Path>
+						</File>
+						<File Id="307976247" Language="SFX">
+							<ShortName>V1_Bass.wav</ShortName>
+							<Path>SFX\V1_Bass_D79FB2B7.wem</Path>
+						</File>
+						<File Id="338470746" Language="SFX">
+							<ShortName>V1_Sax.wav</ShortName>
+							<Path>SFX\V1_Sax_D79FB2B7.wem</Path>
+						</File>
+						<File Id="369060233" Language="SFX">
+							<ShortName>V1_Kit.wav</ShortName>
+							<Path>SFX\V1_Kit_D79FB2B7.wem</Path>
+						</File>
+						<File Id="588243350" Language="SFX">
+							<ShortName>V1_Clarient.wav</ShortName>
+							<Path>SFX\V1_Clarient_D79FB2B7.wem</Path>
+						</File>
+						<File Id="702200144" Language="SFX">
+							<ShortName>V5_Sax.wav</ShortName>
+							<Path>SFX\V5_Sax_D79FB2B7.wem</Path>
+						</File>
+						<File Id="722318207" Language="SFX">
+							<ShortName>V1_E Piano.wav</ShortName>
+							<Path>SFX\V1_E Piano_D79FB2B7.wem</Path>
+						</File>
+						<File Id="744139117" Language="SFX">
+							<ShortName>Intro_Sax.wav</ShortName>
+							<Path>SFX\Intro_Sax_D79FB2B7.wem</Path>
+						</File>
+						<File Id="814825751" Language="SFX">
+							<ShortName>V2_Kit.wav</ShortName>
+							<Path>SFX\V2_Kit_D79FB2B7.wem</Path>
+						</File>
+						<File Id="822516830" Language="SFX">
+							<ShortName>V3_Sax.wav</ShortName>
+							<Path>SFX\V3_Sax_D79FB2B7.wem</Path>
+						</File>
+						<File Id="827602250" Language="SFX">
+							<ShortName>V1_Pizzicato Strings.wav</ShortName>
+							<Path>SFX\V1_Pizzicato Strings_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="147150410" Name="ponderingCustomers" ObjectPath="\Events\Default Work Unit\ponderingCustomers" MaxAttenuation="15." DurationType="OneShot" DurationMin="0.576599" DurationMax="0.951565">
+					<IncludedMemoryFiles>
+						<File Id="291106260" Language="SFX">
+							<ShortName>sfx_customers_pondering02.wav</ShortName>
+							<Path>SFX\sfx_customers_pondering02_10C4C929.wem</Path>
+						</File>
+						<File Id="623491091" Language="SFX">
+							<ShortName>sfx_customers_pondering03.wav</ShortName>
+							<Path>SFX\sfx_customers_pondering03_10C4C929.wem</Path>
+						</File>
+						<File Id="629381889" Language="SFX">
+							<ShortName>sfx_customers_pondering01.wav</ShortName>
+							<Path>SFX\sfx_customers_pondering01_10C4C929.wem</Path>
+						</File>
+						<File Id="944098135" Language="SFX">
+							<ShortName>sfx_customers_pondering04.wav</ShortName>
+							<Path>SFX\sfx_customers_pondering04_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4170476507" Name="startAmbiance" ObjectPath="\Events\Default Work Unit\startAmbiance" DurationType="Infinite">
+					<ReferencedStreamedFiles>
+						<File Id="24399643" Language="SFX">
+							<ShortName>sfx_ambiance_bird01.wav</ShortName>
+							<Path>SFX\sfx_ambiance_bird01_10C4C929.wem</Path>
+						</File>
+						<File Id="24718945" Language="SFX">
+							<ShortName>sfx_ambiance_bird02.wav</ShortName>
+							<Path>SFX\sfx_ambiance_bird02_10C4C929.wem</Path>
+						</File>
+						<File Id="176130988" Language="SFX">
+							<ShortName>sfx_ambiance_bird08.wav</ShortName>
+							<Path>SFX\sfx_ambiance_bird08_10C4C929.wem</Path>
+						</File>
+						<File Id="241176896" Language="SFX">
+							<ShortName>sfx_ambiance_bird04.wav</ShortName>
+							<Path>SFX\sfx_ambiance_bird04_10C4C929.wem</Path>
+						</File>
+						<File Id="256843532" Language="SFX">
+							<ShortName>sfx_ambiance_bird05.wav</ShortName>
+							<Path>SFX\sfx_ambiance_bird05_10C4C929.wem</Path>
+						</File>
+						<File Id="283770028" Language="SFX">
+							<ShortName>sfx_ambiance_car01.wav</ShortName>
+							<Path>SFX\sfx_ambiance_car01_B224CC78.wem</Path>
+						</File>
+						<File Id="301651997" Language="SFX">
+							<ShortName>sfx_ambiance_pigeon03.wav</ShortName>
+							<Path>SFX\sfx_ambiance_pigeon03_10C4C929.wem</Path>
+						</File>
+						<File Id="381921093" Language="SFX">
+							<ShortName>sfx_ambiance_pigeon01.wav</ShortName>
+							<Path>SFX\sfx_ambiance_pigeon01_10C4C929.wem</Path>
+						</File>
+						<File Id="443784128" Language="SFX">
+							<ShortName>sfx_ambiance_car02.wav</ShortName>
+							<Path>SFX\sfx_ambiance_car02_10C4C929.wem</Path>
+						</File>
+						<File Id="636828644" Language="SFX">
+							<ShortName>sfx_ambiance_car03.wav</ShortName>
+							<Path>SFX\sfx_ambiance_car03_10C4C929.wem</Path>
+						</File>
+						<File Id="902952998" Language="SFX">
+							<ShortName>sfx_ambiance_bird06.wav</ShortName>
+							<Path>SFX\sfx_ambiance_bird06_10C4C929.wem</Path>
+						</File>
+						<File Id="970327853" Language="SFX">
+							<ShortName>sfx_ambiance_bird07.wav</ShortName>
+							<Path>SFX\sfx_ambiance_bird07_10C4C929.wem</Path>
+						</File>
+						<File Id="1033227381" Language="SFX">
+							<ShortName>sfx_ambiance_bird03.wav</ShortName>
+							<Path>SFX\sfx_ambiance_bird03_10C4C929.wem</Path>
+						</File>
+						<File Id="1057318742" Language="SFX">
+							<ShortName>sfx_ambiance_pigeon02.wav</ShortName>
+							<Path>SFX\sfx_ambiance_pigeon02_10C4C929.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="796031751" Language="SFX">
+							<ShortName>sfx_ambiance_wind01.wav</ShortName>
+							<Path>SFX\sfx_ambiance_wind01_C5579977.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1498905402" Name="stealing" ObjectPath="\Events\Default Work Unit\stealing" MaxAttenuation="15." DurationType="OneShot" DurationMin="0.738027" DurationMax="0.738027">
+					<IncludedMemoryFiles>
+						<File Id="821323207" Language="SFX">
+							<ShortName>sfx_thiefStealing01.wav</ShortName>
+							<Path>SFX\sfx_thiefStealing01_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3620977680" Name="tannoy" ObjectPath="\Events\Default Work Unit\tannoy" DurationType="OneShot" DurationMin="4.976054" DurationMax="15.378594">
+					<IncludedMemoryFiles>
+						<File Id="2638475" Language="SFX">
+							<ShortName>vo_tannoyAnnouncement28_mono.wav</ShortName>
+							<Path>SFX\vo_tannoyAnnouncement28_mono_10C4C929.wem</Path>
+						</File>
+						<File Id="16724662" Language="SFX">
+							<ShortName>vo_tannoyAnnouncement19_mono.wav</ShortName>
+							<Path>SFX\vo_tannoyAnnouncement19_mono_10C4C929.wem</Path>
+						</File>
+						<File Id="40279741" Language="SFX">
+							<ShortName>vo_tannoyAnnouncement25_mono.wav</ShortName>
+							<Path>SFX\vo_tannoyAnnouncement25_mono_10C4C929.wem</Path>
+						</File>
+						<File Id="52922252" Language="SFX">
+							<ShortName>vo_tannoyAnnouncement21_mono.wav</ShortName>
+							<Path>SFX\vo_tannoyAnnouncement21_mono_10C4C929.wem</Path>
+						</File>
+						<File Id="55710923" Language="SFX">
+							<ShortName>vo_tannoyAnnouncement40_mono.wav</ShortName>
+							<Path>SFX\vo_tannoyAnnouncement40_mono_10C4C929.wem</Path>
+						</File>
+						<File Id="82388661" Language="SFX">
+							<ShortName>vo_tannoyAnnouncement32_mono.wav</ShortName>
+							<Path>SFX\vo_tannoyAnnouncement32_mono_10C4C929.wem</Path>
+						</File>
+						<File Id="110896325" Language="SFX">
+							<ShortName>vo_tannoyAnnouncement04_mono.wav</ShortName>
+							<Path>SFX\vo_tannoyAnnouncement04_mono_10C4C929.wem</Path>
+						</File>
+						<File Id="117815406" Language="SFX">
+							<ShortName>vo_tannoyAnnouncement13_mono.wav</ShortName>
+							<Path>SFX\vo_tannoyAnnouncement13_mono_10C4C929.wem</Path>
+						</File>
+						<File Id="152191993" Language="SFX">
+							<ShortName>vo_tannoyAnnouncement30_mono.wav</ShortName>
+							<Path>SFX\vo_tannoyAnnouncement30_mono_10C4C929.wem</Path>
+						</File>
+						<File Id="178526991" Language="SFX">
+							<ShortName>vo_tannoyAnnouncement39_mono.wav</ShortName>
+							<Path>SFX\vo_tannoyAnnouncement39_mono_10C4C929.wem</Path>
+						</File>
+						<File Id="211688002" Language="SFX">
+							<ShortName>vo_tannoyAnnouncement29_mono.wav</ShortName>
+							<Path>SFX\vo_tannoyAnnouncement29_mono_10C4C929.wem</Path>
+						</File>
+						<File Id="225193246" Language="SFX">
+							<ShortName>vo_tannoyAnnouncement14_mono.wav</ShortName>
+							<Path>SFX\vo_tannoyAnnouncement14_mono_10C4C929.wem</Path>
+						</File>
+						<File Id="242291426" Language="SFX">
+							<ShortName>vo_tannoyAnnouncement18_mono.wav</ShortName>
+							<Path>SFX\vo_tannoyAnnouncement18_mono_10C4C929.wem</Path>
+						</File>
+						<File Id="245477606" Language="SFX">
+							<ShortName>vo_tannoyAnnouncement31_mono.wav</ShortName>
+							<Path>SFX\vo_tannoyAnnouncement31_mono_10C4C929.wem</Path>
+						</File>
+						<File Id="289758899" Language="SFX">
+							<ShortName>vo_tannoyAnnouncement01_mono.wav</ShortName>
+							<Path>SFX\vo_tannoyAnnouncement01_mono_10C4C929.wem</Path>
+						</File>
+						<File Id="314778583" Language="SFX">
+							<ShortName>vo_tannoyAnnouncement22_mono.wav</ShortName>
+							<Path>SFX\vo_tannoyAnnouncement22_mono_10C4C929.wem</Path>
+						</File>
+						<File Id="322036956" Language="SFX">
+							<ShortName>vo_tannoyAnnouncement09_mono.wav</ShortName>
+							<Path>SFX\vo_tannoyAnnouncement09_mono_10C4C929.wem</Path>
+						</File>
+						<File Id="382395767" Language="SFX">
+							<ShortName>vo_tannoyAnnouncement26_mono.wav</ShortName>
+							<Path>SFX\vo_tannoyAnnouncement26_mono_10C4C929.wem</Path>
+						</File>
+						<File Id="387588763" Language="SFX">
+							<ShortName>vo_tannoyAnnouncement10_mono.wav</ShortName>
+							<Path>SFX\vo_tannoyAnnouncement10_mono_10C4C929.wem</Path>
+						</File>
+						<File Id="404737150" Language="SFX">
+							<ShortName>vo_tannoyAnnouncement38_mono.wav</ShortName>
+							<Path>SFX\vo_tannoyAnnouncement38_mono_10C4C929.wem</Path>
+						</File>
+						<File Id="418737362" Language="SFX">
+							<ShortName>vo_tannoyAnnouncement11_mono.wav</ShortName>
+							<Path>SFX\vo_tannoyAnnouncement11_mono_10C4C929.wem</Path>
+						</File>
+						<File Id="459171999" Language="SFX">
+							<ShortName>vo_tannoyAnnouncement07_mono.wav</ShortName>
+							<Path>SFX\vo_tannoyAnnouncement07_mono_10C4C929.wem</Path>
+						</File>
+						<File Id="475415882" Language="SFX">
+							<ShortName>vo_tannoyAnnouncement41_mono.wav</ShortName>
+							<Path>SFX\vo_tannoyAnnouncement41_mono_10C4C929.wem</Path>
+						</File>
+						<File Id="516008640" Language="SFX">
+							<ShortName>vo_tannoyAnnouncement16_mono.wav</ShortName>
+							<Path>SFX\vo_tannoyAnnouncement16_mono_10C4C929.wem</Path>
+						</File>
+						<File Id="517425044" Language="SFX">
+							<ShortName>vo_tannoyAnnouncement03_mono.wav</ShortName>
+							<Path>SFX\vo_tannoyAnnouncement03_mono_10C4C929.wem</Path>
+						</File>
+						<File Id="535115456" Language="SFX">
+							<ShortName>vo_tannoyAnnouncement12_mono.wav</ShortName>
+							<Path>SFX\vo_tannoyAnnouncement12_mono_10C4C929.wem</Path>
+						</File>
+						<File Id="554637090" Language="SFX">
+							<ShortName>vo_tannoyAnnouncement15_mono.wav</ShortName>
+							<Path>SFX\vo_tannoyAnnouncement15_mono_10C4C929.wem</Path>
+						</File>
+						<File Id="556650591" Language="SFX">
+							<ShortName>vo_tannoyAnnouncement43_mono.wav</ShortName>
+							<Path>SFX\vo_tannoyAnnouncement43_mono_10C4C929.wem</Path>
+						</File>
+						<File Id="556859925" Language="SFX">
+							<ShortName>vo_tannoyAnnouncement35_mono.wav</ShortName>
+							<Path>SFX\vo_tannoyAnnouncement35_mono_10C4C929.wem</Path>
+						</File>
+						<File Id="557984568" Language="SFX">
+							<ShortName>vo_tannoyAnnouncement06_mono.wav</ShortName>
+							<Path>SFX\vo_tannoyAnnouncement06_mono_10C4C929.wem</Path>
+						</File>
+						<File Id="646833036" Language="SFX">
+							<ShortName>vo_tannoyAnnouncement36_mono.wav</ShortName>
+							<Path>SFX\vo_tannoyAnnouncement36_mono_10C4C929.wem</Path>
+						</File>
+						<File Id="699151933" Language="SFX">
+							<ShortName>vo_tannoyAnnouncement23_mono.wav</ShortName>
+							<Path>SFX\vo_tannoyAnnouncement23_mono_10C4C929.wem</Path>
+						</File>
+						<File Id="703424654" Language="SFX">
+							<ShortName>vo_tannoyAnnouncement27_mono.wav</ShortName>
+							<Path>SFX\vo_tannoyAnnouncement27_mono_10C4C929.wem</Path>
+						</File>
+						<File Id="742817018" Language="SFX">
+							<ShortName>vo_tannoyAnnouncement42_mono.wav</ShortName>
+							<Path>SFX\vo_tannoyAnnouncement42_mono_10C4C929.wem</Path>
+						</File>
+						<File Id="745680339" Language="SFX">
+							<ShortName>vo_tannoyAnnouncement33_mono.wav</ShortName>
+							<Path>SFX\vo_tannoyAnnouncement33_mono_10C4C929.wem</Path>
+						</File>
+						<File Id="757439471" Language="SFX">
+							<ShortName>vo_tannoyAnnouncement08_mono.wav</ShortName>
+							<Path>SFX\vo_tannoyAnnouncement08_mono_10C4C929.wem</Path>
+						</File>
+						<File Id="825764711" Language="SFX">
+							<ShortName>vo_tannoyAnnouncement17_mono.wav</ShortName>
+							<Path>SFX\vo_tannoyAnnouncement17_mono_10C4C929.wem</Path>
+						</File>
+						<File Id="836492197" Language="SFX">
+							<ShortName>vo_tannoyAnnouncement02_mono.wav</ShortName>
+							<Path>SFX\vo_tannoyAnnouncement02_mono_10C4C929.wem</Path>
+						</File>
+						<File Id="865124031" Language="SFX">
+							<ShortName>vo_tannoyAnnouncement24_mono.wav</ShortName>
+							<Path>SFX\vo_tannoyAnnouncement24_mono_10C4C929.wem</Path>
+						</File>
+						<File Id="883489509" Language="SFX">
+							<ShortName>vo_tannoyAnnouncement37_mono.wav</ShortName>
+							<Path>SFX\vo_tannoyAnnouncement37_mono_10C4C929.wem</Path>
+						</File>
+						<File Id="942532540" Language="SFX">
+							<ShortName>vo_tannoyAnnouncement20_mono.wav</ShortName>
+							<Path>SFX\vo_tannoyAnnouncement20_mono_10C4C929.wem</Path>
+						</File>
+						<File Id="948835099" Language="SFX">
+							<ShortName>vo_tannoyAnnouncement05_mono.wav</ShortName>
+							<Path>SFX\vo_tannoyAnnouncement05_mono_10C4C929.wem</Path>
+						</File>
+						<File Id="970280645" Language="SFX">
+							<ShortName>vo_tannoyAnnouncement34_mono.wav</ShortName>
+							<Path>SFX\vo_tannoyAnnouncement34_mono_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1269172605" Name="testaudio" ObjectPath="\Events\Default Work Unit\testaudio" DurationType="Infinite">
+					<ReferencedStreamedFiles>
+						<File Id="275564790" Language="SFX">
+							<ShortName>V5_Pizzicato Strings.wav</ShortName>
+							<Path>SFX\V5_Pizzicato Strings_D79FB2B7.wem</Path>
+						</File>
+						<File Id="304327796" Language="SFX">
+							<ShortName>V2_Pizzicato Strings.wav</ShortName>
+							<Path>SFX\V2_Pizzicato Strings_D79FB2B7.wem</Path>
+						</File>
+						<File Id="499910848" Language="SFX">
+							<ShortName>V6_Pizzicato Strings.wav</ShortName>
+							<Path>SFX\V6_Pizzicato Strings_D79FB2B7.wem</Path>
+						</File>
+						<File Id="509835209" Language="SFX">
+							<ShortName>V3_Pizzicato Strings.wav</ShortName>
+							<Path>SFX\V3_Pizzicato Strings_D79FB2B7.wem</Path>
+						</File>
+						<File Id="814622815" Language="SFX">
+							<ShortName>V4_Pizzicato Strings.wav</ShortName>
+							<Path>SFX\V4_Pizzicato Strings_D79FB2B7.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="7450326" Language="SFX">
+							<ShortName>V1_Staccato Strings.wav</ShortName>
+							<Path>SFX\V1_Staccato Strings_D79FB2B7.wem</Path>
+						</File>
+						<File Id="18979138" Language="SFX">
+							<ShortName>sfx_janitorPlastic02.wav</ShortName>
+							<Path>SFX\sfx_janitorPlastic02_10C4C929.wem</Path>
+						</File>
+						<File Id="159448607" Language="SFX">
+							<ShortName>V2_Sax.wav</ShortName>
+							<Path>SFX\V2_Sax_D79FB2B7.wem</Path>
+						</File>
+						<File Id="185226714" Language="SFX">
+							<ShortName>V3_Kit.wav</ShortName>
+							<Path>SFX\V3_Kit_D79FB2B7.wem</Path>
+						</File>
+						<File Id="189823372" Language="SFX">
+							<ShortName>sfx_janitorPickup03.wav</ShortName>
+							<Path>SFX\sfx_janitorPickup03_10C4C929.wem</Path>
+						</File>
+						<File Id="231356588" Language="SFX">
+							<ShortName>V1__bongos_.wav</ShortName>
+							<Path>SFX\V1__bongos__D79FB2B7.wem</Path>
+						</File>
+						<File Id="241464932" Language="SFX">
+							<ShortName>V4_Sax.wav</ShortName>
+							<Path>SFX\V4_Sax_D79FB2B7.wem</Path>
+						</File>
+						<File Id="283003415" Language="SFX">
+							<ShortName>sfx_janitorPlastic01.wav</ShortName>
+							<Path>SFX\sfx_janitorPlastic01_10C4C929.wem</Path>
+						</File>
+						<File Id="307976247" Language="SFX">
+							<ShortName>V1_Bass.wav</ShortName>
+							<Path>SFX\V1_Bass_D79FB2B7.wem</Path>
+						</File>
+						<File Id="338470746" Language="SFX">
+							<ShortName>V1_Sax.wav</ShortName>
+							<Path>SFX\V1_Sax_D79FB2B7.wem</Path>
+						</File>
+						<File Id="358093188" Language="SFX">
+							<ShortName>sfx_janitorPlastic03.wav</ShortName>
+							<Path>SFX\sfx_janitorPlastic03_10C4C929.wem</Path>
+						</File>
+						<File Id="369060233" Language="SFX">
+							<ShortName>V1_Kit.wav</ShortName>
+							<Path>SFX\V1_Kit_D79FB2B7.wem</Path>
+						</File>
+						<File Id="496641220" Language="SFX">
+							<ShortName>sfx_janitorPaper02.wav</ShortName>
+							<Path>SFX\sfx_janitorPaper02_10C4C929.wem</Path>
+						</File>
+						<File Id="556600526" Language="SFX">
+							<ShortName>sfx_janitorPickup01.wav</ShortName>
+							<Path>SFX\sfx_janitorPickup01_10C4C929.wem</Path>
+						</File>
+						<File Id="588243350" Language="SFX">
+							<ShortName>V1_Clarient.wav</ShortName>
+							<Path>SFX\V1_Clarient_D79FB2B7.wem</Path>
+						</File>
+						<File Id="654748624" Language="SFX">
+							<ShortName>sfx_janitorPaper01.wav</ShortName>
+							<Path>SFX\sfx_janitorPaper01_10C4C929.wem</Path>
+						</File>
+						<File Id="702200144" Language="SFX">
+							<ShortName>V5_Sax.wav</ShortName>
+							<Path>SFX\V5_Sax_D79FB2B7.wem</Path>
+						</File>
+						<File Id="722318207" Language="SFX">
+							<ShortName>V1_E Piano.wav</ShortName>
+							<Path>SFX\V1_E Piano_D79FB2B7.wem</Path>
+						</File>
+						<File Id="744139117" Language="SFX">
+							<ShortName>Intro_Sax.wav</ShortName>
+							<Path>SFX\Intro_Sax_D79FB2B7.wem</Path>
+						</File>
+						<File Id="814825751" Language="SFX">
+							<ShortName>V2_Kit.wav</ShortName>
+							<Path>SFX\V2_Kit_D79FB2B7.wem</Path>
+						</File>
+						<File Id="822516830" Language="SFX">
+							<ShortName>V3_Sax.wav</ShortName>
+							<Path>SFX\V3_Sax_D79FB2B7.wem</Path>
+						</File>
+						<File Id="827602250" Language="SFX">
+							<ShortName>V1_Pizzicato Strings.wav</ShortName>
+							<Path>SFX\V1_Pizzicato Strings_D79FB2B7.wem</Path>
+						</File>
+						<File Id="856357871" Language="SFX">
+							<ShortName>sfx_janitorPickup02.wav</ShortName>
+							<Path>SFX\sfx_janitorPickup02_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{491D2CE8-B166-447D-8C1E-8D909C8F4A0D}">
+							<Children>
+								<SwitchContainer SwitchValue="{B0399B21-B8DA-4F58-A5BB-164159763F0A}">
+									<Media>
+										<File Id="7450326"/>
+										<File Id="159448607"/>
+										<File Id="185226714"/>
+										<File Id="231356588"/>
+										<File Id="241464932"/>
+										<File Id="307976247"/>
+										<File Id="338470746"/>
+										<File Id="369060233"/>
+										<File Id="588243350"/>
+										<File Id="702200144"/>
+										<File Id="744139117"/>
+										<File Id="822516830"/>
+										<File Id="827602250"/>
+									</Media>
+								</SwitchContainer>
+								<SwitchContainer SwitchValue="{1BD81567-B0F0-4866-B91B-CF7E41130BDD}">
+									<Media>
+										<File Id="7450326"/>
+										<File Id="231356588"/>
+										<File Id="275564790"/>
+										<File Id="304327796"/>
+										<File Id="307976247"/>
+										<File Id="499910848"/>
+										<File Id="509835209"/>
+										<File Id="588243350"/>
+										<File Id="814622815"/>
+										<File Id="827602250"/>
+									</Media>
+								</SwitchContainer>
+								<SwitchContainer SwitchValue="{224058A7-7126-4B84-B357-1ABDCF3EC92B}">
+									<Media>
+										<File Id="159448607"/>
+										<File Id="185226714"/>
+										<File Id="231356588"/>
+										<File Id="241464932"/>
+										<File Id="307976247"/>
+										<File Id="338470746"/>
+										<File Id="369060233"/>
+										<File Id="588243350"/>
+										<File Id="702200144"/>
+										<File Id="722318207"/>
+										<File Id="744139117"/>
+										<File Id="814825751"/>
+										<File Id="822516830"/>
+										<File Id="827602250"/>
+									</Media>
+								</SwitchContainer>
+								<SwitchContainer SwitchValue="{F5FF4DFA-8BCA-4ED8-8729-E83F814A3DAC}">
+									<Media>
+										<File Id="7450326"/>
+										<File Id="275564790"/>
+										<File Id="304327796"/>
+										<File Id="499910848"/>
+										<File Id="509835209"/>
+										<File Id="588243350"/>
+										<File Id="814622815"/>
+										<File Id="827602250"/>
+									</Media>
+								</SwitchContainer>
+							</Children>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{11332628-D4A6-4773-912E-D8FDD127F0B7}">
+							<Media>
+								<File Id="7450326"/>
+								<File Id="185226714"/>
+								<File Id="827602250"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{4AFA2AA4-7F03-4CC1-924C-0921AE741B06}">
+							<Media>
+								<File Id="7450326"/>
+								<File Id="185226714"/>
+								<File Id="827602250"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+			</IncludedEvents>
+			<GameParameters>
+				<GameParameter Id="1184004748" Name="PercentageMallFull" ObjectPath="\Game Parameters\Default Work Unit\PercentageMallFull"/>
+			</GameParameters>
+			<StateGroups>
+				<StateGroup Id="3030503141" Name="IsGamePaused" ObjectPath="\States\Default Work Unit\IsGamePaused" GUID="{EB0C2A17-B773-4515-9ACF-4C3C378A6CAE}">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Default Work Unit\IsGamePaused\None" GUID="{4AFA2AA4-7F03-4CC1-924C-0921AE741B06}"/>
+						<State Id="979470758" Name="Yes" ObjectPath="\States\Default Work Unit\IsGamePaused\Yes" GUID="{11332628-D4A6-4773-912E-D8FDD127F0B7}"/>
+						<State Id="1668749452" Name="No" ObjectPath="\States\Default Work Unit\IsGamePaused\No" GUID="{491D2CE8-B166-447D-8C1E-8D909C8F4A0D}"/>
+					</States>
+				</StateGroup>
+			</StateGroups>
+			<SwitchGroups>
+				<SwitchGroup Id="1192081059" Name="Busyness" ObjectPath="\Switches\Default Work Unit\Busyness" GUID="{569201C8-001F-4D39-B100-7A5467100F59}">
+					<Switches>
+						<Switch Id="2767934153" Name="Packed" ObjectPath="\Switches\Default Work Unit\Busyness\Packed" GUID="{224058A7-7126-4B84-B357-1ABDCF3EC92B}"/>
+						<Switch Id="1565680351" Name="Quiet" ObjectPath="\Switches\Default Work Unit\Busyness\Quiet" GUID="{F5FF4DFA-8BCA-4ED8-8729-E83F814A3DAC}"/>
+						<Switch Id="1747842238" Name="Moderate" ObjectPath="\Switches\Default Work Unit\Busyness\Moderate" GUID="{1BD81567-B0F0-4866-B91B-CF7E41130BDD}"/>
+						<Switch Id="1427625958" Name="Busy" ObjectPath="\Switches\Default Work Unit\Busyness\Busy" GUID="{B0399B21-B8DA-4F58-A5BB-164159763F0A}"/>
+					</Switches>
+				</SwitchGroup>
+				<SwitchGroup Id="4247838896" Name="itemType" ObjectPath="\Switches\Default Work Unit\itemType" GUID="{AFD7B437-7785-437D-92F8-B903D192991A}">
+					<Switches>
+						<Switch Id="1968058251" Name="ceramic" ObjectPath="\Switches\Default Work Unit\itemType\ceramic" GUID="{F5C7E266-70D0-4BF0-9D27-9855F70B81B1}"/>
+						<Switch Id="4294388576" Name="generic" ObjectPath="\Switches\Default Work Unit\itemType\generic" GUID="{4BC84B78-B6B0-4401-B609-83A88248DB58}"/>
+						<Switch Id="3624926856" Name="leather" ObjectPath="\Switches\Default Work Unit\itemType\leather" GUID="{2858ACAE-9426-4D6D-B4C1-95D67D43BC8A}"/>
+						<Switch Id="2473969246" Name="metal" ObjectPath="\Switches\Default Work Unit\itemType\metal" GUID="{6A6AD026-FFED-470F-8C8B-DEDF1FB95B83}"/>
+						<Switch Id="2058049674" Name="wood" ObjectPath="\Switches\Default Work Unit\itemType\wood" GUID="{432C82D6-9A7A-46D0-8D45-6CD1C42584F1}"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

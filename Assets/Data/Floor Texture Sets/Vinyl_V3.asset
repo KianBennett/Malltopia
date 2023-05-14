@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7d9212df6e553d4ca0ad15a92149032, type: 3}
+  m_Name: Vinyl_V3
+  m_EditorClassIdentifier: 
+  mainTexture: {fileID: 2800000, guid: 10080feac8ffc704bac500f35489f751, type: 3}
+  normals: {fileID: 2800000, guid: 02740745816b4cb40b53d51d5c9712c8, type: 3}
+  roughness: {fileID: 2800000, guid: d8943ed2fca39344590d3ce61ece78dc, type: 3}
+  specular: {fileID: 0}

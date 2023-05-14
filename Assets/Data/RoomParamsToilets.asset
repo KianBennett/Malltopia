@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 739f677decf42ef47b0d9aede45b1a13, type: 3}
+  m_Name: RoomParamsToilets
+  m_EditorClassIdentifier: 
+  Name: Toilets
+  Cost: 500
+  CostPerTile: 10
+  MinSize: {x: 2, y: 2}
+  ObjectsToPlace:
+  - {fileID: 2631367688910885468, guid: 945f3049f5f0996409b75f7966be0e82, type: 3}
+  - {fileID: 1081376673482673289, guid: 30720792ffc0e834fb336f6ac4bdc1bc, type: 3}
+  ObjectsCanBuild:
+  - {fileID: 1081376673482673289, guid: 30720792ffc0e834fb336f6ac4bdc1bc, type: 3}
+  - {fileID: 1081376673482673289, guid: af55c3ae59df054479ec993ee84ec642, type: 3}
+  - {fileID: 1081376673482673289, guid: ebdf9c8469763664fac4990bcc66a3ba, type: 3}
+  - {fileID: 8289054967060161088, guid: a58273670fb3d2f409265f0680fb3d1d, type: 3}
+  - {fileID: 2631367688910885468, guid: 945f3049f5f0996409b75f7966be0e82, type: 3}
+  defaultFloorTextureSet: {fileID: 11400000, guid: 58ae0343a1de8764bbcfc074c4211498,
+    type: 2}
+  defaultWallMaterials: {fileID: 11400000, guid: 6c2785af036c5b349b62771bbf5b29d8,
+    type: 2}
+  staffOnly: 0

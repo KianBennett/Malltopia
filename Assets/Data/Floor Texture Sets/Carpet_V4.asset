@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7d9212df6e553d4ca0ad15a92149032, type: 3}
+  m_Name: Carpet_V4
+  m_EditorClassIdentifier: 
+  mainTexture: {fileID: 2800000, guid: b1b33f30f70d78746a2cabfa8cda6447, type: 3}
+  normals: {fileID: 2800000, guid: 0a1dd9a4b1f188540a281980a24246f8, type: 3}
+  roughness: {fileID: 2800000, guid: 098fdd2836c33ae40b75e5f99c55d08f, type: 3}
+  specular: {fileID: 0}

@@ -1,0 +1,34 @@
+Switch Group	ID	Name			Wwise Object Path	Notes
+	1192081059	Busyness			\Default Work Unit\Busyness	
+
+Switch	ID	Name	Switch Group			Notes
+	1427625958	Busy	Busyness			
+	1565680351	Quiet	Busyness			
+	1747842238	Moderate	Busyness			
+	2767934153	Packed	Busyness			
+
+State Group	ID	Name			Wwise Object Path	Notes
+	3030503141	IsGamePaused			\Default Work Unit\IsGamePaused	
+
+State	ID	Name	State Group			Notes
+	748895195	None	IsGamePaused			
+	979470758	Yes	IsGamePaused			
+	1668749452	No	IsGamePaused			
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	2346531308	musicVolume			\Antti Work Unit\musicVolume	
+	2918011349	masterVolume			\Antti Work Unit\masterVolume	
+	3190574006	tannoyVolume			\Antti Work Unit\tannoyVolume	
+	3873835272	soundVolume			\Antti Work Unit\soundVolume	
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	623086306	Sound			\Default Work Unit\Master Audio Bus\Sound	
+	1551306167	UI			\Default Work Unit\Master Audio Bus\Sound\UI	
+	3620977680	Tannoy			\Default Work Unit\Master Audio Bus\Tannoy	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+	3991942870	Music			\Default Work Unit\Master Audio Bus\Music	
+
+Audio Devices	ID	Name	Type				Notes
+	2317455096	No_Output	No Output			
+	3859886410	System	System			
+

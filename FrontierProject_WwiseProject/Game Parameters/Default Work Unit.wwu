@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{EFB0AE29-53A3-4372-99A7-F072BD8EBEB9}" SchemaVersion="103">
+	<GameParameters>
+		<WorkUnit Name="Default Work Unit" ID="{EFB0AE29-53A3-4372-99A7-F072BD8EBEB9}" PersistMode="Standalone">
+			<ChildrenList>
+				<GameParameter Name="PercentageMallFull" ID="{E27CE17A-73B8-436C-997F-1EB5E20F115B}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="0"/>
+					</PropertyList>
+				</GameParameter>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

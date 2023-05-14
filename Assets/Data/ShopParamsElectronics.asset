@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb1c0311227554044a048224ac2dadc3, type: 3}
+  m_Name: ShopParamsElectronics
+  m_EditorClassIdentifier: 
+  Name: Electronics Shop
+  Cost: 5000
+  CostPerTile: 10
+  MinSize: {x: 4, y: 4}
+  ObjectsToPlace:
+  - {fileID: 4510266327003031022, guid: e9efd199787cdf24fa0d0bc5fade8ace, type: 3}
+  - {fileID: -98658473944328193, guid: ed294a79414b4fb498eac2f48f5e7971, type: 3}
+  - {fileID: -3488670189712212315, guid: 25913e22d625f3f42b910180d9ca16ed, type: 3}
+  ObjectsCanBuild:
+  - {fileID: -98658473944328193, guid: ed294a79414b4fb498eac2f48f5e7971, type: 3}
+  - {fileID: 676549231777029075, guid: 3552af176aed71c44a2bf5ffb43a3801, type: 3}
+  - {fileID: -4884685382092512875, guid: 473fb7c47348700448927057e234df7a, type: 3}
+  - {fileID: -3488670189712212315, guid: 25913e22d625f3f42b910180d9ca16ed, type: 3}
+  - {fileID: 8289054967060161088, guid: a58273670fb3d2f409265f0680fb3d1d, type: 3}
+  - {fileID: 4510266327003031022, guid: e9efd199787cdf24fa0d0bc5fade8ace, type: 3}
+  defaultFloorTextureSet: {fileID: 11400000, guid: ef41592be34f4854c9ba901b24705fa3,
+    type: 2}
+  defaultWallMaterials: {fileID: 11400000, guid: c953ad12554caf1499ca05bfa6819f64,
+    type: 2}
+  staffOnly: 0
+  ShopAssistantPrefab: {fileID: 514884749719327297, guid: 15fee296a7113c843af5063edb66ca7a,
+    type: 3}
+  ProductCost: 100
+  ItemObjectKey: {fileID: -3488670189712212315, guid: 25913e22d625f3f42b910180d9ca16ed,
+    type: 3}

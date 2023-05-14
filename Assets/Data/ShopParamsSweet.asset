@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb1c0311227554044a048224ac2dadc3, type: 3}
+  m_Name: ShopParamsSweet
+  m_EditorClassIdentifier: 
+  Name: Sweet Shop
+  Cost: 2000
+  CostPerTile: 10
+  MinSize: {x: 4, y: 4}
+  ObjectsToPlace:
+  - {fileID: 7749658344561251890, guid: 9fd0854951a26e5428cfcf36d3a61b38, type: 3}
+  - {fileID: -98658473944328193, guid: ed294a79414b4fb498eac2f48f5e7971, type: 3}
+  - {fileID: 5543882292970100415, guid: ccd6850d00cdd714e9ec2935393ef9bf, type: 3}
+  ObjectsCanBuild:
+  - {fileID: -98658473944328193, guid: ed294a79414b4fb498eac2f48f5e7971, type: 3}
+  - {fileID: 4450870699244660702, guid: 8dda2ad4ed2d4e54ba4b791375d072b3, type: 3}
+  - {fileID: 676549231777029075, guid: 3552af176aed71c44a2bf5ffb43a3801, type: 3}
+  - {fileID: -4884685382092512875, guid: 473fb7c47348700448927057e234df7a, type: 3}
+  - {fileID: 5543882292970100415, guid: ccd6850d00cdd714e9ec2935393ef9bf, type: 3}
+  - {fileID: 5184139077354815427, guid: 9403d335c25e59a4ab9e0aff673cb55a, type: 3}
+  - {fileID: 8289054967060161088, guid: a58273670fb3d2f409265f0680fb3d1d, type: 3}
+  - {fileID: 7749658344561251890, guid: 9fd0854951a26e5428cfcf36d3a61b38, type: 3}
+  defaultFloorTextureSet: {fileID: 11400000, guid: 8e62c09f59681db4e9946c82df4ad97f,
+    type: 2}
+  defaultWallMaterials: {fileID: 11400000, guid: 1c6217379dd99184b92484d5354c74ad,
+    type: 2}
+  staffOnly: 0
+  ShopAssistantPrefab: {fileID: 8052116128940450463, guid: 78899a9214f48454a9d36075cf480a82,
+    type: 3}
+  ProductCost: 10
+  ItemObjectKey: {fileID: 4450870699244660702, guid: 8dda2ad4ed2d4e54ba4b791375d072b3,
+    type: 3}

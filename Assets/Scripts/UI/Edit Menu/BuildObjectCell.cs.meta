@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: d0f5ff0e3192fae439f069964b2f2732
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - RequiredItemDot: {instanceID: 0}
+  - CrossImage: {fileID: 21300000, guid: d655db50e2f281d4987693c8d0b2c343, type: 3}
+  - TickImage: {fileID: 21300000, guid: 45c3a8d3f2725fa4ca93295e3b6eb612, type: 3}
+  - OutlineObject: {instanceID: 0}
+  - DisplayName: {instanceID: 0}
+  - DisplayCost: {instanceID: 0}
+  - _CurrentRoom: {instanceID: 0}
+  - _Item: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

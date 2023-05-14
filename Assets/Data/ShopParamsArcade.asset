@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb1c0311227554044a048224ac2dadc3, type: 3}
+  m_Name: ShopParamsArcade
+  m_EditorClassIdentifier: 
+  Name: Arcade
+  Cost: 7000
+  CostPerTile: 10
+  MinSize: {x: 4, y: 4}
+  ObjectsToPlace:
+  - {fileID: 7756516572713625671, guid: 235e5e6921d857c4b8df670de930f5b9, type: 3}
+  - {fileID: -98658473944328193, guid: ed294a79414b4fb498eac2f48f5e7971, type: 3}
+  - {fileID: 6829954449462638615, guid: d81bdd03b48d80040bf115a5d55315f1, type: 3}
+  ObjectsCanBuild:
+  - {fileID: -98658473944328193, guid: ed294a79414b4fb498eac2f48f5e7971, type: 3}
+  - {fileID: 6829954449462638615, guid: d81bdd03b48d80040bf115a5d55315f1, type: 3}
+  - {fileID: 676549231777029075, guid: 3552af176aed71c44a2bf5ffb43a3801, type: 3}
+  - {fileID: -4884685382092512875, guid: 473fb7c47348700448927057e234df7a, type: 3}
+  - {fileID: 8289054967060161088, guid: a58273670fb3d2f409265f0680fb3d1d, type: 3}
+  - {fileID: 7756516572713625671, guid: 235e5e6921d857c4b8df670de930f5b9, type: 3}
+  defaultFloorTextureSet: {fileID: 11400000, guid: f18f1a7f751923d4a838b45184b456d6,
+    type: 2}
+  defaultWallMaterials: {fileID: 11400000, guid: 6c2785af036c5b349b62771bbf5b29d8,
+    type: 2}
+  staffOnly: 0
+  ShopAssistantPrefab: {fileID: 8052116128940450463, guid: e9f74f95a20479c4295974c9fd06b0ef,
+    type: 3}
+  ProductCost: 40
+  ItemObjectKey: {fileID: 0}

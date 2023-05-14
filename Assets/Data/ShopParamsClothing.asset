@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb1c0311227554044a048224ac2dadc3, type: 3}
+  m_Name: ShopParamsClothing
+  m_EditorClassIdentifier: 
+  Name: Clothing Shop
+  Cost: 3000
+  CostPerTile: 10
+  MinSize: {x: 4, y: 4}
+  ObjectsToPlace:
+  - {fileID: 3783621441149912257, guid: bbbbb7fa23fd0ea4b9f85842ce7e6bf7, type: 3}
+  - {fileID: -98658473944328193, guid: ed294a79414b4fb498eac2f48f5e7971, type: 3}
+  - {fileID: 5810303492798771365, guid: 73d39bb4c052a574098d54029e797916, type: 3}
+  ObjectsCanBuild:
+  - {fileID: -98658473944328193, guid: ed294a79414b4fb498eac2f48f5e7971, type: 3}
+  - {fileID: 5810303492798771365, guid: 73d39bb4c052a574098d54029e797916, type: 3}
+  - {fileID: 676549231777029075, guid: 3552af176aed71c44a2bf5ffb43a3801, type: 3}
+  - {fileID: -4884685382092512875, guid: 473fb7c47348700448927057e234df7a, type: 3}
+  - {fileID: 5543882292970100415, guid: 11eb1a6b8d7ce9e449b2688b642365fa, type: 3}
+  - {fileID: 5184139077354815427, guid: e3a7285f030577142b33522e5a818458, type: 3}
+  - {fileID: 8289054967060161088, guid: a58273670fb3d2f409265f0680fb3d1d, type: 3}
+  - {fileID: 3783621441149912257, guid: bbbbb7fa23fd0ea4b9f85842ce7e6bf7, type: 3}
+  defaultFloorTextureSet: {fileID: 11400000, guid: df6912a3b53f87c4abb73eacdb83ec8b,
+    type: 2}
+  defaultWallMaterials: {fileID: 11400000, guid: 560e129e16900744ab0b45ea2dceb886,
+    type: 2}
+  staffOnly: 0
+  ShopAssistantPrefab: {fileID: 8052116128940450463, guid: 3b22e45a924e3f84bae61420a002599c,
+    type: 3}
+  ProductCost: 20
+  ItemObjectKey: {fileID: 5810303492798771365, guid: 73d39bb4c052a574098d54029e797916,
+    type: 3}

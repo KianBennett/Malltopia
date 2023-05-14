@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49f83f3cea016ff4e8801a24bbdfd568, type: 3}
+  m_Name: ShirtColours
+  m_EditorClassIdentifier: 
+  Colours:
+  - {r: 0.40062296, g: 0.49278563, b: 0.6698113, a: 1}
+  - {r: 0.31100035, g: 0.5283019, b: 0.3211015, a: 1}
+  - {r: 0.7169812, g: 0.6900084, b: 0.29355645, a: 1}
+  - {r: 0.6117647, g: 0.23248938, b: 0.2, a: 1}
+  - {r: 0.3962264, g: 0.20582905, b: 0.12858668, a: 1}
+  - {r: 0.5566038, g: 0.27515128, b: 0.50585127, a: 1}
+  - {r: 0.36709887, g: 0.27450982, b: 0.5568628, a: 1}
+  - {r: 0.27450982, g: 0.5176456, b: 0.5568628, a: 1}

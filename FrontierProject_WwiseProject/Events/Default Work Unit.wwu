@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{6544746E-9534-4220-A520-B0D9D8B0D861}" SchemaVersion="103">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{6544746E-9534-4220-A520-B0D9D8B0D861}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="testaudio" ID="{9C8C8CE2-8AA3-42EC-B590-1335E8F3CCFF}">
+					<ChildrenList>
+						<Action Name="" ID="{817E3E1B-00AC-4091-B4B3-A268CCF00F4A}" ShortID="851863794">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MusicSwitch" ID="{897F1725-18CD-4ACD-9217-99AA571A5641}" WorkUnitID="{4E143430-120A-49DA-A09E-C405CF76894E}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{3687222A-1CA0-4C2D-9958-B3CF9CDAA7C6}" ShortID="1021832747">
+							<PropertyList>
+								<Property Name="Delay" Type="Real64" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="janitor" ID="{CE3A4D34-7332-4A4E-8046-3B26CD9E1FC1}" WorkUnitID="{75AF4376-6AF6-42C4-AF7D-B15E89CF49FE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="crowdRumbling" ID="{692B5A7F-8799-438B-A28C-BFECE506FEE4}">
+					<ChildrenList>
+						<Action Name="" ID="{0574FBBC-062D-4CAF-B59E-48FBD3C9AEB5}" ShortID="528580349">
+							<PropertyList>
+								<Property Name="FadeTime" Type="Real64" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sfx_crowd_queue_loop01" ID="{BFC556C9-F0DC-43D5-8374-8270810E9FC5}" WorkUnitID="{75AF4376-6AF6-42C4-AF7D-B15E89CF49FE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="crowdRestaurant" ID="{2A8BEA6B-8FCA-48E2-9858-3C8AFB4D7062}">
+					<ChildrenList>
+						<Action Name="" ID="{19293642-041F-423B-8AD1-14DF121CB50D}" ShortID="26733610">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sfx_crowd_restaurant_loop01" ID="{96C6F677-1237-4FE5-AEA9-6BF2E43F777B}" WorkUnitID="{75AF4376-6AF6-42C4-AF7D-B15E89CF49FE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="destroyWalls" ID="{4B1A51DE-0E28-42D5-9AB9-9B9CA1AF1178}">
+					<ChildrenList>
+						<Action Name="" ID="{FA862C2C-E6DA-4D2A-BDF2-757D62A9B6DC}" ShortID="1054163572">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="destroyWalls" ID="{A23BA2D9-DE8F-44C1-911D-D48EC397F5B3}" WorkUnitID="{75AF4376-6AF6-42C4-AF7D-B15E89CF49FE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="destroyItems" ID="{328CADEF-5964-4F68-B556-9D235AC1CAE8}">
+					<ChildrenList>
+						<Action Name="" ID="{9CC5BE6D-34A4-439D-AD0D-D6A247D2D6D8}" ShortID="273359989">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="destroyItems" ID="{90A5F57A-A795-49C2-A70C-7303AED48B5D}" WorkUnitID="{75AF4376-6AF6-42C4-AF7D-B15E89CF49FE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="placeWalls" ID="{A3A38F09-FD0E-47CC-A27D-7726C9354D7E}">
+					<ChildrenList>
+						<Action Name="" ID="{7454EB41-D855-4F33-86D9-DA81028A745D}" ShortID="584993623">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="placeWalls" ID="{6ADAAC5F-62DA-49E4-8AEB-7A0D0C1C92FA}" WorkUnitID="{75AF4376-6AF6-42C4-AF7D-B15E89CF49FE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="placeItems" ID="{3687D419-5459-41E3-86E7-BF8D58997E39}">
+					<ChildrenList>
+						<Action Name="" ID="{67681ED7-FA37-4540-944C-E4B2B5DFE4B7}" ShortID="354314769">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="placeItems" ID="{E85CB3FD-A91C-4643-B876-E1D73EC902AA}" WorkUnitID="{75AF4376-6AF6-42C4-AF7D-B15E89CF49FE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="menuSelect" ID="{B9BBFC4E-19A3-43D7-A5CB-698454ECC157}">
+					<ChildrenList>
+						<Action Name="" ID="{69B14915-2519-4A80-A120-147F2EDF5FC3}" ShortID="281510503">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sfx_menuSelect02" ID="{1221EB63-8DEB-4D8B-BDAF-6C4A504559F7}" WorkUnitID="{75AF4376-6AF6-42C4-AF7D-B15E89CF49FE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{BBF4DB76-CF07-462C-9976-3BE54EB0A078}" ShortID="1063615653">
+							<PropertyList>
+								<Property Name="Delay" Type="Real64" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sfx_menuSelect01" ID="{ED6E423A-10F2-4B64-A392-E5A46313857A}" WorkUnitID="{75AF4376-6AF6-42C4-AF7D-B15E89CF49FE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="partyWhistle" ID="{29DBC235-F677-4EAA-8656-1087BC9482F4}">
+					<ChildrenList>
+						<Action Name="" ID="{0A06F64E-8AF5-4819-985C-83063EC9B0B0}" ShortID="310492342">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sfx_partyWhistle01" ID="{05B1B9BD-EECF-4701-AD59-A01D3BF60EA8}" WorkUnitID="{75AF4376-6AF6-42C4-AF7D-B15E89CF49FE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="stealing" ID="{A060256F-5A6D-4FD6-8E3E-5A8BD0CA5092}">
+					<ChildrenList>
+						<Action Name="" ID="{9C92A15C-27E6-4939-A5FD-C6FEE4199ED0}" ShortID="828944071">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sfx_thiefStealing01" ID="{5CE248A4-49A6-41E5-B657-C341D4FCBBCE}" WorkUnitID="{75AF4376-6AF6-42C4-AF7D-B15E89CF49FE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="angryCustomers" ID="{F2100927-5A42-4DFB-BB3F-D4C87C5B7445}">
+					<ChildrenList>
+						<Action Name="" ID="{CF49EE69-1E02-4F5E-8E61-91F30D23169D}" ShortID="85393848">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="angryCustomers" ID="{B05D2D4B-A759-4B7D-B727-B0ADB6B3EC1A}" WorkUnitID="{75AF4376-6AF6-42C4-AF7D-B15E89CF49FE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="ponderingCustomers" ID="{CB3F8D01-8A50-4106-BADE-B12DAE454C56}">
+					<ChildrenList>
+						<Action Name="" ID="{C540E76B-5894-42CA-9B22-F02251FEAE22}" ShortID="940043470">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="ponderingCustomers" ID="{D8A7F964-16A2-4B43-9682-12A7B41324C1}" WorkUnitID="{75AF4376-6AF6-42C4-AF7D-B15E89CF49FE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="guardAlert" ID="{1E3C8345-EF31-4B9B-A527-E824ADB8DEF8}">
+					<ChildrenList>
+						<Action Name="" ID="{6D47444F-2B57-4939-AF8B-E4643FD30531}" ShortID="379089543">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="guardAlert" ID="{B8C7EE8F-7200-40A9-9815-E150BC255AC9}" WorkUnitID="{75AF4376-6AF6-42C4-AF7D-B15E89CF49FE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="guardChase" ID="{21BD77EC-D243-407B-919C-ABEF35A16C06}">
+					<ChildrenList>
+						<Action Name="" ID="{7B82C9D7-79C2-4B3A-880C-6E21666784EE}" ShortID="615481170">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="guardChase" ID="{6FC7455E-0613-42F3-9225-480CAFE58245}" WorkUnitID="{75AF4376-6AF6-42C4-AF7D-B15E89CF49FE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="janitor" ID="{48FEEBEF-6773-4396-8C51-11895FA598EA}">
+					<ChildrenList>
+						<Action Name="" ID="{FA6F4091-47F1-46C8-9FBA-E060DDB56DA9}" ShortID="28842365">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="janitor" ID="{CE3A4D34-7332-4A4E-8046-3B26CD9E1FC1}" WorkUnitID="{75AF4376-6AF6-42C4-AF7D-B15E89CF49FE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="footsteps" ID="{8BC9C0CF-F3D5-4E2D-95B4-4FC71DB12CD5}">
+					<ChildrenList>
+						<Action Name="" ID="{A5A5F677-FF19-4A73-B216-4FCF9DA93960}" ShortID="993193501">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="footsteps" ID="{9E59433C-BD71-428E-B785-E1695F8E577A}" WorkUnitID="{75AF4376-6AF6-42C4-AF7D-B15E89CF49FE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="tannoy" ID="{24D1EBE3-9B67-4B70-B7CE-5F8519296B55}">
+					<ChildrenList>
+						<Action Name="" ID="{2A70D17F-DC89-4210-9C88-5F8B1C990FC5}" ShortID="68653862">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="tannoy" ID="{E71C5C36-8729-48C3-AC97-F508DA80D9B2}" WorkUnitID="{75AF4376-6AF6-42C4-AF7D-B15E89CF49FE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="startAmbiance" ID="{01978469-CEFA-4FE4-ACDF-18A334A3CFBC}">
+					<ChildrenList>
+						<Action Name="" ID="{18E39E18-728D-43C2-AA82-ACFB0F8CEBAB}" ShortID="969482157">
+							<PropertyList>
+								<Property Name="FadeTime" Type="Real64" Value="3"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="ambiance" ID="{A335097A-7422-4BFA-A11A-C744E8877126}" WorkUnitID="{75AF4376-6AF6-42C4-AF7D-B15E89CF49FE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="cashier" ID="{031682C6-F061-4329-A3EC-8747273A9D4D}">
+					<ChildrenList>
+						<Action Name="" ID="{909CFE7D-9C95-4DF8-890A-ACBA69C65012}" ShortID="1029279432">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="cashRegister" ID="{305BBF17-6ED2-4E9D-A35C-3D69C24EFC2C}" WorkUnitID="{75AF4376-6AF6-42C4-AF7D-B15E89CF49FE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="cheeringCustomers" ID="{F987B76B-2C84-47E4-A0E1-C96485715065}">
+					<ChildrenList>
+						<Action Name="" ID="{F9FC25DB-5B29-4687-8266-536B7AB5B04D}" ShortID="559761311">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="cheeringCustomers" ID="{63654F76-FD6D-4B7E-96F8-1B4133CD71B2}" WorkUnitID="{75AF4376-6AF6-42C4-AF7D-B15E89CF49FE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
