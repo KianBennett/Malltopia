@@ -200,6 +200,9 @@ public class ItemObject : WorldObject
         }
 
         // Restore 75% of the cost of the item
-        if(PlayerController.Instance) PlayerController.Instance.AddMoney((int) (Cost * 0.75f));
+        if(PlayerController.Instance && !isTempObject) 
+        {
+            PlayerController.Instance.AddMoney((int) (Cost * 0.75f));
+        }
     }
 }

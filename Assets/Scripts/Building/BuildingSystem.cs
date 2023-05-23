@@ -159,7 +159,6 @@ public class BuildingSystem : Singleton<BuildingSystem>
                 {
                     currentRoom = Mall.CurrentFloor.BuildRoom(SelectedRoomParams, cellsToFill.Select(o => o.Item1).ToList());
                     ChangeBuildingStage(BuildingStage.PlaceRoomObjects);
-                    PlayerController.Instance.RemoveMoney(currentRoom.RoomParams.Cost + (currentRoom.RoomParams.CostPerTile * cells.Count));
                     AkSoundEngine.PostEvent("placeWalls", gameObject);
                 }
 
@@ -498,7 +497,7 @@ public class BuildingSystem : Singleton<BuildingSystem>
         if (InputHandler.Instance.WasPressedThisFrame("Select") &&
             selectionIsValid &&
             !EventSystem.current.IsPointerOverGameObject() &&
-            PlayerController.Instance.RemoveMoney(buildingPiecePrefab.Cost))
+            PlayerController.Instance.CanAfford(buildingPiecePrefab.Cost))
         {
             CellEdge cellEdge = (mousedOverObject as BuildingPieceObject).cellEdge;
 
@@ -635,6 +634,10 @@ public class BuildingSystem : Singleton<BuildingSystem>
         }
         else
         {
+            PlayerController.Instance.RemoveMoney
+            (
+                currentRoom.RoomParams.Cost + (currentRoom.RoomParams.CostPerTile * currentRoom.cells.Count)
+            );
             currentRoom.OnBuildComplete();
             PlayerController.Instance.ExitBuildMode();
         }

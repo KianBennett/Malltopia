@@ -207,6 +207,11 @@ public class PlayerController : Singleton<PlayerController>
         }
     }
 
+    public bool CanAfford(int amount)
+    {
+        return money >= amount;
+    }
+
     public void AddMoney(int amount)
     {
         if (amount < 0)
